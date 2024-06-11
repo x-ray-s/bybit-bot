@@ -1,6 +1,10 @@
 # bybit-bot
 
-Install [bun](https://bun.sh/)
+1. Install [bun](https://bun.sh/) in your computer or server.
+2. Git clone this repo.
+3. Install dependencies.
+4. Change .env file to your configure.
+5. Run to start.
 
 To install dependencies:
 
